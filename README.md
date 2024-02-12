@@ -5,4 +5,4 @@
 
 📫 How to reach me: [Discord](https://discordapp.com/users/735556253111156859)
 
-![](https://discord.c99.nl/widget/theme-3/735556253111156859.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1096035155761709136)](https://discord.com/users/735556253111156859)
