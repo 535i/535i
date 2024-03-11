@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m mainly focusing on school and will be learning new stuff soon
+- 🔭 Online Im known as BÖZ, a 20y old who is interested in various IT-related fields
+- 🚀 Python, Web development 
 - 🌱 I’m currently learning C++
 
 📫 How to reach me: [Discord](https://discordapp.com/users/735556253111156859)
